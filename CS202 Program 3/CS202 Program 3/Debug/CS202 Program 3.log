@@ -1,0 +1,4 @@
+﻿  Ability.cpp
+C:\Users\Carson\Desktop\CS202 Program 3 Remake\CS202 Program 3\Ability.cpp(544,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Carson\Desktop\CS202 Program 3 Remake\CS202 Program 3\Ability.cpp(573,72): warning C4305: 'argument': truncation from 'double' to 'float'
+  CS202 Program 3.vcxproj -> C:\Users\Carson\Desktop\CS202 Program 3 Remake\Debug\CS202 Program 3.exe
