@@ -1,6 +1,6 @@
 //NAME:Carson Hansen
 //FILE NAME:Monster.cpp
-//PURPOSE: Implement the functions the monster and its derved classes have
+//PURPOSE: Implement the functions the monster and its derived classes have
 #include "Monster.h"
 #include<stdlib.h>
 #include<iostream>
