@@ -378,7 +378,7 @@ DLLArray::~DLLArray(void)
     mHead = nullptr;
 }
 
-//wWapper function to delete all the nodes
+//Wrapper function to delete all the nodes
 int DLLArray::Destroy(void)
 {
     int removed = 0;
@@ -392,8 +392,8 @@ int DLLArray::Destroy(void)
     return removed;
 }
 
-//Wrapper to display the active abilities the user has
-//returns the number of abilities dispalyed
+//Wrapper to display the active abilities the user has.
+//Returns the number of abilities dispalyed
 int DLLArray::DisplayActiveAbilities()
 {
     if (!mHead)
